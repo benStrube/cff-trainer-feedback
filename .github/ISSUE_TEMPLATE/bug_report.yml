@@ -33,6 +33,14 @@ body:
     attributes:
       label: Version and edition
       placeholder: e.g. 0.2.0, website / Voice+Radio / Windows app
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Channel
+      description: Stable is the tested release; beta is the preview build. The in-app report fills this in.
+      options:
+        - stable
+        - beta
   - type: textarea
     id: exercise
     attributes:
