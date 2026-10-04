@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open the trainer
+    url: https://benstrube.github.io/cff-trainer/
+    about: Use Help → Report a bug inside the trainer for a pre-filled report.

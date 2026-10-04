@@ -1,0 +1,55 @@
+name: Bug or doctrinal error
+description: Something didn't work, or a procedure doesn't match doctrine.
+title: "[Bug] "
+labels: [needs-review]
+assignees: [benStrube]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve CFF Trainer. The in-app **Help → Report a bug** button fills most of this in for you.
+        Please don't include personal or sensitive information.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Bug, Doctrinal error, Voice input / FDC voice, Graphics or performance, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      placeholder: Describe what you did and what went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      placeholder: For doctrine issues, cite the publication and paragraph if you can (e.g. ATP 3-09.30, para 4-12).
+  - type: input
+    id: version
+    attributes:
+      label: Version and edition
+      placeholder: e.g. 0.2.0, website / Voice+Radio / Windows app
+  - type: textarea
+    id: exercise
+    attributes:
+      label: Exercise settings
+      description: Seed, difficulty, area, weapon and options. The seed lets the exercise be replayed exactly.
+      render: text
+  - type: textarea
+    id: transcript
+    attributes:
+      label: Radio transcript (last lines)
+      render: text
+  - type: textarea
+    id: findings
+    attributes:
+      label: AAR findings
+      render: text
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and OS
