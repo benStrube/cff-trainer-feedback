@@ -17,6 +17,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Visual Library | [#26](https://github.com/benStrube/unclassified-tools-feedback/issues/26) |
 | Observed Fires Visual Guide | [#27](https://github.com/benStrube/unclassified-tools-feedback/issues/27) |
 | Promotion Visual Guide | [#28](https://github.com/benStrube/unclassified-tools-feedback/issues/28) |
+| Field Hygiene Visual Guide | [#29](https://github.com/benStrube/unclassified-tools-feedback/issues/29) |
 | Infantry Leader Guide | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) |
 | Infantry Weapons Guide | [#18](https://github.com/benStrube/unclassified-tools-feedback/issues/18) |
 | Ranger School Prep | [#5](https://github.com/benStrube/unclassified-tools-feedback/issues/5) |
