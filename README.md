@@ -22,6 +22,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Marksmanship and Qualification | [#8](https://github.com/benStrube/unclassified-tools-feedback/issues/8) |
 | CLS Guide | [#9](https://github.com/benStrube/unclassified-tools-feedback/issues/9) |
 | PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
+| BLC Prep | [#19](https://github.com/benStrube/unclassified-tools-feedback/issues/19) |
 | H2F Visual Guide | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
 | Training Management Planner | [#12](https://github.com/benStrube/unclassified-tools-feedback/issues/12) |
 | Counseling Visual Guide | [#17](https://github.com/benStrube/unclassified-tools-feedback/issues/17) |
