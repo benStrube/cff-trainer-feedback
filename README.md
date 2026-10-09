@@ -23,6 +23,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
 | H2F Visual Guide | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
 | Training Management Planner | [#12](https://github.com/benStrube/unclassified-tools-feedback/issues/12) |
+| Board Prep | [#16](https://github.com/benStrube/unclassified-tools-feedback/issues/16) |
 | Awards Guide | [#15](https://github.com/benStrube/unclassified-tools-feedback/issues/15) |
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
