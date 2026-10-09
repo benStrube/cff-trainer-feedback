@@ -31,6 +31,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Board Prep | [#16](https://github.com/benStrube/unclassified-tools-feedback/issues/16) |
 | Awards Guide | [#15](https://github.com/benStrube/unclassified-tools-feedback/issues/15) |
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
+| Offline Package | [#22](https://github.com/benStrube/unclassified-tools-feedback/issues/22) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
 
 Nothing is sent automatically. Reports are public: please don't include personal or sensitive information, and never paste anything that isn't approved for public release.

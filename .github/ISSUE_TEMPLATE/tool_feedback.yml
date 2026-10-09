@@ -33,6 +33,7 @@ body:
         - Board Prep
         - Awards Guide
         - PMCS Helper
+        - Offline Package
         - Unclassified Tools (landing page)
     validations:
       required: true
