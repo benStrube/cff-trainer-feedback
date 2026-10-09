@@ -30,6 +30,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Counseling Visual Guide | [#17](https://github.com/benStrube/unclassified-tools-feedback/issues/17) |
 | Board Prep | [#16](https://github.com/benStrube/unclassified-tools-feedback/issues/16) |
 | Awards Guide | [#15](https://github.com/benStrube/unclassified-tools-feedback/issues/15) |
+| Uniform Visual Guide | [#23](https://github.com/benStrube/unclassified-tools-feedback/issues/23) |
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
 | Offline Package | [#22](https://github.com/benStrube/unclassified-tools-feedback/issues/22) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
