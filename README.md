@@ -15,6 +15,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | CFF Academy | [#2](https://github.com/benStrube/unclassified-tools-feedback/issues/2) |
 | Fires Pubs Library | [#3](https://github.com/benStrube/unclassified-tools-feedback/issues/3) |
 | Infantry Leader Guide | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) |
+| Infantry Weapons Guide | [#18](https://github.com/benStrube/unclassified-tools-feedback/issues/18) |
 | Ranger School Prep | [#5](https://github.com/benStrube/unclassified-tools-feedback/issues/5) |
 | E3B Study Guide | [#6](https://github.com/benStrube/unclassified-tools-feedback/issues/6) |
 | Land Navigation Trainer | [#7](https://github.com/benStrube/unclassified-tools-feedback/issues/7) |
