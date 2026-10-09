@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Open the trainer
+  - name: Unclassified Tools
+    url: https://benstrube.github.io/unclassified-tools/
+    about: Every tool in one place. Each card has a link that opens a report for that tool.
+  - name: Open CFF Trainer
     url: https://benstrube.github.io/cff-trainer/
     about: Use Help → Report a bug inside the trainer for a pre-filled report.

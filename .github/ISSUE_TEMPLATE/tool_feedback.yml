@@ -1,0 +1,53 @@
+name: Problem or suggestion for any tool
+description: A bug, a content or citation error, or an idea, for any tool listed on Unclassified Tools.
+title: "[Feedback] "
+labels: [needs-review]
+assignees: [benStrube]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve these unofficial study aids. Reports are public: don't include personal or sensitive information, and never paste anything that isn't approved for public release.
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Tool
+      options:
+        - CFF Trainer
+        - CFF Academy
+        - Fires Pubs Library
+        - Infantry Leader Guide
+        - Ranger School Prep
+        - E3B Study Guide
+        - PRT Leader Prep
+        - PMCS Helper
+        - Unclassified Tools (landing page)
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Bug, Content or citation error, Suggestion, Other]
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Page, tab or section
+      placeholder: e.g. Visual Guide, figure 5-3, or a link to the page
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, or what should change?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Correct source (for content errors)
+      placeholder: Publication and paragraph, e.g. ATP 3-09.30, para 4-12. Only publications approved for public release.
+  - type: input
+    id: browser
+    attributes:
+      label: Device and browser
