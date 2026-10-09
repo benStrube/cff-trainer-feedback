@@ -21,6 +21,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Land Navigation Trainer | [#7](https://github.com/benStrube/unclassified-tools-feedback/issues/7) |
 | Marksmanship and Qualification | [#8](https://github.com/benStrube/unclassified-tools-feedback/issues/8) |
 | CLS Guide | [#9](https://github.com/benStrube/unclassified-tools-feedback/issues/9) |
+| Hand Receipt Guide | [#20](https://github.com/benStrube/unclassified-tools-feedback/issues/20) |
 | PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
 | BLC Prep | [#19](https://github.com/benStrube/unclassified-tools-feedback/issues/19) |
 | H2F Visual Guide | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
