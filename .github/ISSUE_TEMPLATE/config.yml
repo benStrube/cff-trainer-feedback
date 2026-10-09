@@ -3,6 +3,9 @@ contact_links:
   - name: Unclassified Tools
     url: https://benstrube.github.io/unclassified-tools/
     about: Every tool in one place. Each card has a link that opens a report for that tool.
+  - name: Issue log for each tool
+    url: https://github.com/benStrube/unclassified-tools-feedback/issues?q=label%3Aissue-log
+    about: One standing thread per tool. Check it before reporting, or add a short note there.
   - name: Open CFF Trainer
     url: https://benstrube.github.io/cff-trainer/
     about: Use Help → Report a bug inside the trainer for a pre-filled report.

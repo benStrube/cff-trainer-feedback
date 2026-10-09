@@ -1,10 +1,30 @@
 # Unclassified Tools: feedback
 
-Bug reports, content corrections and suggestions for the unofficial study aids listed on **[Unclassified Tools](https://benstrube.github.io/unclassified-tools/)**: CFF Trainer, CFF Academy, Fires Pubs Library, Infantry Leader Guide, Ranger School Prep, E3B Study Guide, Land Navigation Trainer, PRT Leader Prep and PMCS Helper. This repository holds **issues only**; the tools' source is not here. (It started as CFF Trainer's feedback repository, hence the name.)
+Bug reports, content corrections and suggestions for the unofficial study aids listed on **[Unclassified Tools](https://benstrube.github.io/unclassified-tools/)**. This repository holds **issues only**; the tools' source is not here.
 
 ## Report a problem
-- **Any tool:** on [Unclassified Tools](https://benstrube.github.io/unclassified-tools/), use **Report a problem** on the tool's card, or [open a new report](https://github.com/benStrube/cff-trainer-feedback/issues/new/choose) and pick the tool.
+- **Any tool:** on [Unclassified Tools](https://benstrube.github.io/unclassified-tools/), use **Report a problem** on the tool's card, or [open a new report](https://github.com/benStrube/unclassified-tools-feedback/issues/new/choose) and pick the tool.
 - **CFF Trainer:** in the trainer, open **Help → Report a bug**. It fills in the version, settings and exercise seed (so the problem can be replayed) and opens a pre-filled issue here. No GitHub account? Use **Copy report** or **Save report file** and share it however suits you.
+
+## Issue log for each tool
+Every tool has a standing thread (label [`issue-log`](https://github.com/benStrube/unclassified-tools-feedback/issues?q=label%3Aissue-log)) that tracks its reports:
+
+| Tool | Issue log |
+| --- | --- |
+| CFF Trainer | [#1](https://github.com/benStrube/unclassified-tools-feedback/issues/1) |
+| CFF Academy | [#2](https://github.com/benStrube/unclassified-tools-feedback/issues/2) |
+| Fires Pubs Library | [#3](https://github.com/benStrube/unclassified-tools-feedback/issues/3) |
+| Infantry Leader Guide | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) |
+| Ranger School Prep | [#5](https://github.com/benStrube/unclassified-tools-feedback/issues/5) |
+| E3B Study Guide | [#6](https://github.com/benStrube/unclassified-tools-feedback/issues/6) |
+| Land Navigation Trainer | [#7](https://github.com/benStrube/unclassified-tools-feedback/issues/7) |
+| Marksmanship and Qualification | [#8](https://github.com/benStrube/unclassified-tools-feedback/issues/8) |
+| CLS Guide | [#9](https://github.com/benStrube/unclassified-tools-feedback/issues/9) |
+| PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
+| H2F Visual Guide | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
+| Training Management Planner | [#12](https://github.com/benStrube/unclassified-tools-feedback/issues/12) |
+| PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
+| Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
 
 Nothing is sent automatically. Reports are public: please don't include personal or sensitive information, and never paste anything that isn't approved for public release.
 
